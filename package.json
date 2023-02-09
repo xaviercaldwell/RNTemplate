@@ -1,0 +1,8 @@
+{
+  "name": "rntemplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "https://github.com/xaviercaldwell/RNTemplate.git",
+  "author": "Xavier Caldwell",
+  "license": "MIT"
+}
